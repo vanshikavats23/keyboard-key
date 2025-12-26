@@ -9,3 +9,11 @@ table, th, td {
     padding: 10px;
     text-align: center;
 }
+.h1{
+    text-align: center;
+    margin: 20px;   
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 2rem;
+    font-weight: bold;
+    justify-content: center;
+}
